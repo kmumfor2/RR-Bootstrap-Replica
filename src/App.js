@@ -1,11 +1,4 @@
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello World</h1>
-    </div>
-  );
-}
+import Nav from 'react-bootstrap/Nav'
+import Container from 'react-bootstrap/Container'
 
 export default App;
